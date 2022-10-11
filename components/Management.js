@@ -14,7 +14,7 @@ const Management = () => {
                             <div className="right-side">
                                 <h3>{managment.title}</h3>
                                 <p>{managment.description}</p>
-                                <button>Learn more</button>
+                                <a href="https://collegestats.org/resources/mental-health-guide/" target="_blank"><button>Learn more</button></a>
                             </div>
                         </div>
                     )}

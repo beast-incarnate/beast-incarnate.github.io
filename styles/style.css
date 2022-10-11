@@ -33,13 +33,13 @@ header .btn-try button {
     padding: 10px 30px;
     background-color: transparent;
     outline: none;
-    border: 1px solid #525FFB;
+    border: 1px solid #43994e;
     font-weight: bold;
     font-size: 20px;
     letter-spacing: 0.05em;
     line-height: 27px;
     text-align: left;
-    color: #525ffb;
+    color: #43994e;
     border-radius: 40px;
     cursor: pointer;
 }
@@ -121,7 +121,7 @@ header .btn-try button {
     background-color: transparent;
     outline: none;
     border: none;
-    background: #525FFB;
+    background: #43994e;
     font-weight: 500;
     font-size: 17px;
     letter-spacing: 0.05em;
@@ -234,7 +234,7 @@ header .btn-try button {
 }
 
 .services .grid-services .card:nth-of-type(1) {
-    background: #525FFB;
+    background: #43994e;
 }
 
 .services .grid-services .card:nth-of-type(2) {
@@ -316,7 +316,7 @@ header .btn-try button {
 .management .content-management .item .right-side button {
     padding: 15px 40px;
     border-radius: 30px;
-    background: #525FFB;
+    background: #43994e;
     outline: none;
     border: none;
     cursor: pointer;
@@ -371,7 +371,7 @@ header .btn-try button {
     font-size: 150px;
     line-height: 60px;
     text-align: center;
-    color: #525ffb;
+    color: #43994e;
 
 }
 
@@ -445,7 +445,7 @@ footer .form-group button {
     background-color: transparent;
     outline: none;
     border: none;
-    background: #525FFB;
+    background: #43994e;
     font-weight: 500;
     font-size: 17px;
     letter-spacing: 0.05em;

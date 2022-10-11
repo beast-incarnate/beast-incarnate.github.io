@@ -15,14 +15,14 @@ const Hero = () => {
                         <form>
                             <div className="form-group">
                                 <input type="email" placeholder="Name@company.com" />
-                                <button type="submit" >Try it free</button>
+                                <button type="submit" >Contact Us</button>
                             </div>
                         </form>
                     </div>
 
 
                     <div className="right-side">
-                        <Image src="/hero.svg" layout="fill" />
+                        <Image src="/joyful-female-doctor-2.svg" layout="fill" />
                     </div>
 
                 </div>

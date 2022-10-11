@@ -8,13 +8,13 @@ const Header = () => {
             <div className="logo">
                 <Link href="/">
                     <a>
-                        <Image src={data.logo} width={165} height={65} />
+                        <Image src={data.logo} width={165} height={100} />
                     </a>
                 </Link>
             </div>
             <div className="btn-try">
                 <button>
-                    Try free
+                    Contact Us
                 </button>
             </div>
         </header>

@@ -12,14 +12,14 @@ export default function Home({ hero }) {
   return (
     <>
       <Head>
-        <title>Taskia | Landing Page</title>
+        <title>Carebridge | Landing Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Hero />
-      <Services />
+      {/* <Services /> */}
       <Management />
-      <TrustUs />
+      {/* <TrustUs /> */}
 
 
     </>
