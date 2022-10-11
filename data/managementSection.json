@@ -4,7 +4,15 @@
             "id": 1,
             "title": "Why mental health in students is a big issue?",
             "description": "Around 50% of mental health issues among students go untreated and god knows how many are never found",
-            "image": "/management/anxiety.png"
+            "image": "/management/anxiety.png",
+            "learnMore": true
+        },
+        {
+            "id": 2,
+            "title": "Not all wounds are visible",
+            "description": "We are dedicated to healing the unseen",
+            "image": "/sad.png",
+            "learnMore": false
         }
     ]
 }

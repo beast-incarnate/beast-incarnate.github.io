@@ -3,6 +3,13 @@ import Link from 'next/link';
 import data from '../data/headerSection.json';
 
 const Header = () => {
+
+    const scroll = () => {
+        const section = document.getElementsByClassName('header-footer')[0];
+        section.scrollIntoView( { behavior: 'smooth', block: 'start' } );
+      };
+      
+
     return (
         <header>
             <div className="logo">
@@ -13,8 +20,8 @@ const Header = () => {
                 </Link>
             </div>
             <div className="btn-try">
-                <button>
-                    Contact Us
+                <button onClick={scroll}>
+                    Support Us
                 </button>
             </div>
         </header>

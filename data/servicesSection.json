@@ -3,20 +3,20 @@
     "blocks": [
         {
             "id": 1,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "All Mental Health records in one place",
+            "description": "Always keep track of your progess and past prescriptions",
             "icon": "/services/service1.svg"
         },
         {
             "id": 2,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Best price in the Market",
+            "description": "We guarantee to provide the best possible rates and connect students to the best possible therapists",
             "icon": "/services/service2.svg"
         },
         {
             "id": 3,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "World class Customer Support",
+            "description": "Contact us for anything to everthing and we will be there to help you",
             "icon": "/services/service3.svg"
         }
     ]

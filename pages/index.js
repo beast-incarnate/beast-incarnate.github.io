@@ -13,15 +13,12 @@ export default function Home({ hero }) {
     <>
       <Head>
         <title>Carebridge | Landing Page</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Hero />
-      {/* <Services /> */}
       <Management />
-      {/* <TrustUs /> */}
-
-
+      <Services />
+      <TrustUs />
     </>
   )
 }
